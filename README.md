@@ -1,6 +1,6 @@
-![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg)
-
 # Project Name
+
+![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg)
 
 Long Description about project. This project do that. This project is awesome...
 
